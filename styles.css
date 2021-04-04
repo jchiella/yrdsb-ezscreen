@@ -45,9 +45,16 @@ iframe {
 
 img {
   display: block;
-  width: 20%;
   margin: auto;
+}
+
+.check {
+  width: 20%;
   margin-bottom: 3rem;
+}
+
+.screening {
+  width: 70%;
 }
 
 footer p {
